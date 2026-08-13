@@ -12,7 +12,7 @@
 ### Full Stack Developer & Web Designer
 #### Building fast, modern, and beautiful web experiences
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divyansh-singh-web-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divyansh-singh-web-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-singh-rathore-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/divyansh_webdev/)
 
@@ -117,7 +117,7 @@ I don't just build websites — I build **digital presence** that works hard for
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divyansh-singh-web-dev-port.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divyansh-singh-web-dev.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916367735581)
 
 </div>
@@ -128,6 +128,6 @@ I don't just build websites — I build **digital presence** that works hard for
 
 *"Good design is making something intelligible and memorable. Great design is making something memorable and meaningful."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=divyanshsinghrathore&color=58A6FF&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Divyanshsingh-dev&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
