@@ -89,9 +89,9 @@ I don't just build websites — I build **digital presence** that works hard for
 
 <div align="center">
 
-![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshsinghrathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyanshsingh-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghrathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshsingh-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
